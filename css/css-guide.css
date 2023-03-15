@@ -1,0 +1,37 @@
+
+  h1 {
+    color: cyan;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 113px;
+}
+
+  h2 {
+    color: greenyellow;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 66px;
+}
+
+  p {
+    color: blueviolet;
+    text-align: justify;
+    font-style: normal;
+    font-family: fantasy;
+    font-weight: normal;
+    font-size: 12pt;
+}
+
+  ul {
+    color: pink;
+    text-align: inherit;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+    line-height: 30px;
+}

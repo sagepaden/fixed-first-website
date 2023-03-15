@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    background-color: rgb(255, 105, 180); 
+    /* This is hot pink in rgb coordinates */
+    text-align: center;
+}
+/* It's all chaos here. */
+
+h2 {
+  color: #03cf00;
+  font-style: italic;
+  text-align: center;
+  font-weight: 900;
+}
+
+p {
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 30px;
+}
